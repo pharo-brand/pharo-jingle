@@ -17,7 +17,7 @@ There is a free to use sound jingle from freesound.org
 
 The video jingle was created using a free video software called OpenShot. You can find the video project in the [openshotproject](openshotproject) folders
 
-- Videos
--- [Pharo_HDV720_24p_1280x720.mp4](video/Pharo_HDV720_24p_1280x720.mp4)
--- [Pharo_HDV1080_25p_1920x1080.mp4](video/Pharo_HDV1080_25p_1920x1080.mp4)
--- [Pharo_HDV1440_25p_1440x1080.mp4](video/Pharo_HDV1440_25p_1440x1080.mp4) 
+#### Videos
+- [Pharo_HDV720_24p_1280x720.mp4](video/Pharo_HDV720_24p_1280x720.mp4)
+- [Pharo_HDV1080_25p_1920x1080.mp4](video/Pharo_HDV1080_25p_1920x1080.mp4)
+- [Pharo_HDV1440_25p_1440x1080.mp4](video/Pharo_HDV1440_25p_1440x1080.mp4) 
